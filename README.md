@@ -1,2 +1,9 @@
-# Form-Validation-Using-Java-script-Regex
-I developed this project using Vanillajs. In this project you are able to validate your form by in very easy manner.
+Form Validation
+Built with VanillaJS this form has all the required validation to get an authenticated user.
+
+Tech Stack
+HTML/CSS
+Javascript
+
+Author
+Vaibhav Gupta
