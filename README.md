@@ -12,15 +12,7 @@ Built with VanillaJS this form has all the required validation to get an authent
 
 ## Author
 
--   Prakash Sakari - follow me on 👇
--   [GitHub](https://www.github.com/prakashsakari)
--   [LinkedIn](https://www.linkedin.com/in/prakashsakari/)
--   [Twitter](https://twitter.com/prakashsakari)
-
-
-## Live Link
-
-https://loginformvalidate.netlify.app/
+-   Vaibhav Gupta -
 
 
 ## Run Locally
